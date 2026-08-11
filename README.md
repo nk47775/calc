@@ -1,2 +1,1 @@
-# calc
-Smart calculator
+python calc.py
